@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefan Droste.
-- 👀 I’am interested in working as a front-end developer.
+- 👀 I’am interested in working as a Front-End Developer.
 - 🌱 I’m currently learning Angular & Firebase
 
 <!---
