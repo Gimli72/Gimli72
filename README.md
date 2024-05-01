@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefan Droste.
 - 👀 I’am interested in working as a Front-End Developer.
-- 🌱 I’m currently learning Angular & Firebase
+- 🌱 I’m currently learning Angular & Firebase 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gimli72&show_icons=true&theme=tokyonight)
 
