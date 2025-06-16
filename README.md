@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Stefan
-- 👀 I’am interested in working as a Front-End Developer.
 - 🌱 I’m currently learning Vue & Tailwind
 
 <!---
